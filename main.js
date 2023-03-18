@@ -3,7 +3,7 @@ let loader = document.getElementById("preloader");
 
 setTimeout(() => {
   loader.style.display = "none";
-}, 5000);
+}, 3000);
 
 setTimeout(() => {
   let typingText = new Typed("#text", {
@@ -16,4 +16,4 @@ setTimeout(() => {
     typeSpeed: 100,
     backSpeed: 50,
   });
-}, 6000);
+}, 4000);
