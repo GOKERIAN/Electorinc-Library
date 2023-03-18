@@ -904,4 +904,5 @@ nav form {
     align-items: center;
     max-width: 100%;
     justify-content: space-between;
+   gap:20px ; 
 }
