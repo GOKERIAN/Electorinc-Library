@@ -400,6 +400,9 @@ button {
 
 }
 
+header{
+   overflow: hidden;
+}
 .navbar .navbar-nav .nav-link {
    color: white;
 }
